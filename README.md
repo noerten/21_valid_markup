@@ -1,6 +1,10 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Fixed agency landing page. You can check it here [here](https://noerten.github.io/21_valid_markup/).
+
+## How To Use
+
+Just open index.html
 
 # Project Goals
 
